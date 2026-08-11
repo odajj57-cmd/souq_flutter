@@ -1,17 +1,39 @@
-# souq_application_1
+# 🛒 Souq - Flutter E-Commerce App
 
-A new Flutter project.
+A modern E-Commerce mobile application built with Flutter and Dart.
 
-## Getting Started
+Souq provides a simple and clean shopping experience where users can browse products, view product details, manage favorites, and add products to their shopping cart.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏠 Modern Home Screen
+- 🛍️ Browse Products
+- 🔎 Product Details
+- ⭐ Product Ratings
+- ❤️ Favorites
+- 🛒 Shopping Cart
+- ➕ Add & Remove Products
+- 💰 Product Prices
+- 📱 Responsive Mobile UI
+- 🌐 REST API Integration
+- 🇪🇬 Arabic RTL Interface
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Technologies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- REST API
+- HTTP
+- Material Design
+- Carousel Slider
+
+## 📱 Screenshots
+
+> Screenshots will be added soon.
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/odajj57-cmd/souq_flutter.git
