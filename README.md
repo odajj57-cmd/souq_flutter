@@ -29,7 +29,17 @@ Souq provides a simple and clean shopping experience where users can browse prod
 
 ## 📱 Screenshots
 
-> Screenshots will be added soon.
+### Splash Screen
+
+![Souq Splash](screenshots/souq_splash.jpg)
+
+### Home Screen
+
+![Souq Home](screenshots/souq_home.jpg)
+
+### Product Details
+
+![Product Details](screenshots/souq_product_details.jpg)
 
 ## 🚀 Getting Started
 
